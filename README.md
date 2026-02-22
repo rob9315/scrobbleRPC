@@ -2,4 +2,4 @@
 
 Allows you to set Rich Presence based on scrobble data
 
-![](https://github.com/user-attachments/assets/c924466f-ded3-4661-a360-24ca384741f5)
+![](https://github.com/user-attachments/assets/dec36d0a-ac70-4b5f-8a72-05af99dc2045)
